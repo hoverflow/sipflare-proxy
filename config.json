@@ -1,0 +1,10 @@
+{
+	"production": false,
+	"listen_ip": "127.0.0.1",
+	"listen_port": 5060,
+	"user": "postgres_user",
+	"host": "postgres_host",
+	"database": "postgres_db",
+	"password": "postgres_password",
+	"port": 5432
+}

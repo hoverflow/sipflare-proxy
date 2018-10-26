@@ -1,0 +1,26 @@
+{
+  "name": "sipflare-proxy",
+  "version": "0.1.0",
+  "description": "SIP transparent proxy allows secure VoIP communication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:hoverflow/sipflare-proxy.git"
+  },
+  "keywords": [
+    "VoIP",
+    "SIP",
+    "proxy"
+  ],
+  "author": "Jonathan Stevano aka hoverflow",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "pg": "^7.5.0",
+    "redis": "^2.8.0",
+    "sip": "0.0.4",
+    "uws": "^99.0.0"
+  }
+}
