@@ -1,7 +1,7 @@
 # sipflare-proxy
 SipFlare is a Node.JS SIP transparent proxy allows secure VoIP communication  
 It is designed to mask a SIP server behind this service both on the internet and on an sipflare-proxy accessible private network  
-created to be used in conjunction with sipflare-dns allowing SIP proxy DNS management  
+created to be used in conjunction with sipflare-dns allowing SIP proxy DNS management (https://github.com/hoverflow/sipflare-dns)
 
 Currently supporting four types of SIP Messages:   
 - REGISTER: device registration/deregistration  
@@ -14,6 +14,7 @@ Designed to offer performance use a in-memory realtime database (redis) and post
 
 
 https://github.com/hoverflow/sipflare-proxy  
-
+  
+for more information or help find me on linkedin https://www.linkedin.com/in/jonathan-stevano-0759012b
 
 
